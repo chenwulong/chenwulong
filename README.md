@@ -2,7 +2,7 @@
 
 #### DevOps:
 <p align="left">
-  <a href="https://www.docker.com" title="Docker">
+  <a href="https://www.docker.com" title="Docker" target="_blank">
     <img
       src="https://img.icons8.com/?size=96&id=22813&format=png"
       width="50"
@@ -10,7 +10,7 @@
       alt="Docker"
     />
   </a>
-  <a href="https://example.com/second-feature" title="Learn about Second Feature">
+  <a href="https://example.com/second-feature" title="Learn about Second Feature" target="_blank">
     <img
       src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png"
       width="48"
