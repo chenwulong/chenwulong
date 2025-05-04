@@ -20,8 +20,8 @@
   </a>
 </p>
 
-- [Jenkins](https://www.jenkins.io)
 - [Docker](https://www.docker.com)
+- [Jenkins](https://www.jenkins.io)
 - Kubernetes
 
 #### Backend:
