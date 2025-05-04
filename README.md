@@ -62,7 +62,7 @@
   />
   <img
     src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg"
-    width="48"
+    width="40"
     height="48"
     alt="VSCode"
   />
