@@ -1,6 +1,10 @@
-# profile
-Landing page
+## Current stack:
 
-### test 1
+# DevOps:
+Jenkins
 
-## test 2
+# Backend:
+Spring Boot
+
+# Frontend:
+Angular
