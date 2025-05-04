@@ -10,7 +10,7 @@
   </a>
   <a href="https://kubernetes.io" title="Kubernetes">
     <img
-      src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
+      src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg"
       width="48"
       height="48"
       alt="Kubernetes"
