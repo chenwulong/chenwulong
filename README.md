@@ -49,8 +49,20 @@
     alt="Angular"
   />
   <img
+    src="https://min.io/resources/img/logo.svg"
+    width="48"
+    height="48"
+    alt="MinIO Official"
+  />
+  <img
+    src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000"
+    width="48"
+    height="48"
+    alt="Redis"
+  />
+  <img
     src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg"
-    width="40"
+    width="48"
     height="48"
     alt="VSCode"
   />
@@ -65,5 +77,7 @@
 | <img src="https://static.cdnlogo.com/logos/r/90/rabbitmq.svg" width="24" alt="RabbitMQ" />     | [RabbitMQ](https://www.rabbitmq.com)                  |                                                      |
 | <img src="https://oauth.net/images/oauth-2-sm.png" width="24" alt="OAuth2" />                  | [OAuth2](https://oauth.net/2/)                        |                                                      |
 | <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" width="24" alt="NGINX" />     | [NGINX](https://nginx.org)                            |                                                      |
+| <img src="https://min.io/resources/img/logo.svg" width="32" alt="MinIO" />     | [MinIO](https://min.io/)                            |                                                      |
+| <img src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" width="24" alt="Redis" />     | [Redis](https://redis.io/)                            |                                                      |
 | <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="24" alt="Angular" />   | [Angular](https://angular.dev)                        |                                                      |
 | <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" width="24" alt="VSCode" />   | [VSCode](https://code.visualstudio.com)                        |                                                      |
