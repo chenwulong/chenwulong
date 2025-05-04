@@ -1,6 +1,4 @@
 ### Current stack:
-
-#### Skills:
 <p align="left">
   <a href="https://www.docker.com" title="Docker">
     <img
@@ -37,7 +35,7 @@
   <a href="https://www.rabbitmq.com" title="RabbitMQ">
     <img
       src="https://static.cdnlogo.com/logos/r/90/rabbitmq.svg"
-      width="48"
+      width="40"
       height="48"
       alt="RabbitMQ"
     />
