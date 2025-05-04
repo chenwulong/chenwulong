@@ -2,7 +2,7 @@
 
 #### DevOps:
 <p align="left">
-  <a href="https://www.docker.com" title="Docker" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.docker.com" title="Docker">
     <img
       src="https://img.icons8.com/?size=96&id=22813&format=png"
       width="50"
@@ -10,17 +10,17 @@
       alt="Docker"
     />
   </a>
-  <a href="https://example.com/second-feature" title="Learn about Second Feature" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.jenkins.io/ title="Jenkins">
     <img
       src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png"
-      width="48"
-      height="42"
-      alt="Second Feature Icon"
+      width="64"
+      height="64"
+      alt="Jenkins"
     />
   </a>
 </p>
 
-- Jenkins
+- [Jenkins](https://www.jenkins.io)
 - [Docker](https://www.docker.com)
 - Kubernetes
 
