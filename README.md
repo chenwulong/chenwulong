@@ -25,6 +25,12 @@
     alt="Spring Boot"
   />
   <img
+    src="https://cdn.svgporn.com/logos/swagger.svg"
+    width="48"
+    height="48"
+    alt="Swagger"
+  />
+  <img
     src="https://static.cdnlogo.com/logos/r/90/rabbitmq.svg"
     width="40"
     height="48"
@@ -74,6 +80,7 @@
 | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="24" alt="Kubernetes" /> | [Kubernetes](https://kubernetes.io)                   | Cluster orchestration & HA deployments |
 | <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" width="24" alt="Jenkins" /> | [Jenkins](https://www.jenkins.io)                     | Application build and deploy using scripted pipelines |
 | <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="24" alt="Spring Boot" /> | [Spring Boot](https://spring.io/projects/spring-boot) | Backend development using Hibernate ORM, integration with RabbitMQ, Minio, Redis. OAuth2 Authorization Server, Resource Server. Application Gateway for microservices |
+| <img src="https://cdn.svgporn.com/logos/swagger.svg" width="24" alt="Swagger" /> | [Swagger](https://swagger.io/) | API Documentation |
 | <img src="https://static.cdnlogo.com/logos/r/90/rabbitmq.svg" width="24" alt="RabbitMQ" />     | [RabbitMQ](https://www.rabbitmq.com)                  | Async Messaging Service using Exchanges and Queues, DLQ/DLX                                                     |
 | <img src="https://oauth.net/images/oauth-2-sm.png" width="24" alt="OAuth2" />                  | [OAuth2](https://oauth.net/2/)                        | Specification used when authentication is required. Flows: Client Credentials (APIs), Authorization Code (Frontend/APPs) |
 | <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" width="24" alt="NGINX" />     | [NGINX](https://nginx.org)                            | Reverse proxy. Web server used for frontend APPs |
