@@ -1,6 +1,6 @@
 ### Current stack:
 
-#### DevOps:
+#### Skills:
 <p align="left">
   <a href="https://www.docker.com" title="Docker">
     <img
@@ -23,9 +23,7 @@
 - [Docker](https://www.docker.com)
 - [Jenkins](https://www.jenkins.io)
 - Kubernetes
-
-#### Backend:
 - Spring Boot
-
-#### Frontend:
+- RabbitMQ
+- NGINX
 - Angular
