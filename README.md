@@ -70,7 +70,7 @@
 
 |      | Tech                                          | Usage experience                                     |
 | ---- | --------------------------------------------- | ---------------------------------------------------- |
-| <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="24" alt="Docker" />       | [Docker](https://www.docker.com)                      | Container creation via Dockerfiles, serice configuratoin with docker-compose yml files |
+| <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="24" alt="Docker" />       | [Docker](https://www.docker.com)                      | Container creation via Dockerfiles, service configuration with docker-compose yml files |
 | <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="24" alt="Kubernetes" /> | [Kubernetes](https://kubernetes.io)                   | Cluster orchestration & HA deployments |
 | <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" width="24" alt="Jenkins" /> | [Jenkins](https://www.jenkins.io)                     | Application build and deploy using scripted pipelines |
 | <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="24" alt="Spring Boot" /> | [Spring Boot](https://spring.io/projects/spring-boot) | Backend development using Hibernate ORM, integration with RabbitMQ, Minio, Redis. OAuth2 Authorization Server, Resource Server. Application Gateway for microservices |
