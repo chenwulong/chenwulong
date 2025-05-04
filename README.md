@@ -1,10 +1,10 @@
 ## Current stack:
 
-# DevOps:
+### DevOps:
 Jenkins
 
-# Backend:
+#### Backend:
 Spring Boot
 
-# Frontend:
+##### Frontend:
 Angular
