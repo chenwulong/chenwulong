@@ -80,4 +80,4 @@
 | <img src="https://min.io/resources/img/logo.svg" width="32" alt="MinIO" />     | [MinIO](https://min.io/)                            | Simple Storage Service (S3) for file storage |
 | <img src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" width="24" alt="Redis" />     | [Redis](https://redis.io/)                            | In memory database for caching resources |
 | <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="24" alt="Angular" />   | [Angular](https://angular.dev)                        | Frontend framework |
-| <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" width="24" alt="VSCode" />   | [VSCode](https://code.visualstudio.com)                        | Development IDE |
+| <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" width="24" alt="VSCode" />   | [VSCode](https://code.visualstudio.com)                        | Preferred IDE |
