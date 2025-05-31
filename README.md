@@ -79,6 +79,12 @@
     alt="Prometheus"
   />
   <img
+    src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg"
+    width="40"
+    height="48"
+    alt="Sonarqube"
+  />
+  <img
     src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg"
     width="40"
     height="48"
@@ -101,4 +107,5 @@
 | <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="24" alt="Angular" />   | [Angular](https://angular.dev)                        | Frontend framework |
 | <img src="https://img.icons8.com/?size=100&id=6WbypxLnLs37&format=png&color=000000" width="24" alt="Grafana Loki" />   | [Grafana Loki](https://grafana.com/oss/loki)                        | Loki+Fluentbit+Grafana for log aggregation |
 | <img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" width="24" alt="Prometheus" />   | [Prometheus](https://prometheus.io)                        | Prometheus+Grafana for Obserability |
+| <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="24" alt="Sonarqube" />   | [Sonarqube](https://www.sonarsource.com)                        | Sonarqube for Code quality analysis |
 | <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" width="24" alt="VSCode" />   | [VSCode](https://code.visualstudio.com)                        | Preferred IDE |
