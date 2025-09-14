@@ -1,10 +1,16 @@
 ### Current stack:
 <p align="left">
   <img
-    src="https://img.icons8.com/?size=96&id=22813&format=png"
+    src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"
+    width="44"
+    height="48"
+    alt="Terraform"
+  />
+  <img
+    src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000"
     width="48"
     height="48"
-    alt="Docker"
+    alt="Ansible"
   />
   <img
     src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg"
@@ -58,7 +64,7 @@
     src="https://min.io/resources/img/logo.svg"
     width="48"
     height="48"
-    alt="MinIO Official"
+    alt="MinIO"
   />
   <img
     src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000"
@@ -84,18 +90,13 @@
     height="48"
     alt="Sonarqube"
   />
-  <img
-    src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg"
-    width="40"
-    height="48"
-    alt="VSCode"
-  />
 </p>
 
 |      | Tech                                          | Usage experience                                     |
 | ---- | --------------------------------------------- | ---------------------------------------------------- |
-| <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="24" alt="Docker" />       | [Docker](https://www.docker.com)                      | Container creation via Dockerfiles, service configuration with docker-compose yml files |
-| <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="24" alt="Kubernetes" /> | [Kubernetes](https://kubernetes.io)                   | Cluster orchestration & HA deployments |
+| <img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" width="24" alt="Terraform" />       | [Terraform](https://developer.hashicorp.com/terraform)                      | Cloud infrastructure provisioning (IaC) |
+| <img src="https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000" width="24" alt="Ansible" />       | [Ansible](https://www.redhat.com/en/ansible-collaborative)                      | Remote clients configuration via playbooks (IaC) |
+| <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="24" alt="Kubernetes" /> | [Kubernetes](https://kubernetes.io)                   | Cluster orchestration & HA deployments using Helm charts |
 | <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" width="24" alt="Jenkins" /> | [Jenkins](https://www.jenkins.io)                     | Application build and deploy using scripted pipelines |
 | <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="24" alt="Spring Boot" /> | [Spring Boot](https://spring.io/projects/spring-boot) | Backend development using Hibernate ORM, integration with RabbitMQ, Minio, Redis. OAuth2 Authorization Server, Resource Server. Application Gateway for microservices |
 | <img src="https://cdn.svgporn.com/logos/swagger.svg" width="24" alt="Swagger" /> | [Swagger](https://swagger.io/) | API Documentation |
@@ -108,4 +109,3 @@
 | <img src="https://img.icons8.com/?size=100&id=6WbypxLnLs37&format=png&color=000000" width="24" alt="Grafana Loki" />   | [Grafana Loki](https://grafana.com/oss/loki)                        | Loki+Fluentbit+Grafana for log aggregation |
 | <img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" width="24" alt="Prometheus" />   | [Prometheus](https://prometheus.io)                        | Prometheus+Grafana for Obserability |
 | <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="24" alt="Sonarqube" />   | [Sonarqube](https://www.sonarsource.com)                        | Sonarqube for Code quality analysis |
-| <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg" width="24" alt="VSCode" />   | [VSCode](https://code.visualstudio.com)                        | Preferred IDE |
