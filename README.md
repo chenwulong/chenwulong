@@ -61,9 +61,8 @@
     alt="Angular"
   />
   <img
-    src="https://min.io/resources/img/logo.svg"
-    width="48"
-    height="48"
+    src="https://static.cdnlogo.com/logos/m/66/minio.svg"
+    height="46"
     alt="MinIO"
   />
   <img
@@ -103,7 +102,7 @@
 | <img src="https://static.cdnlogo.com/logos/r/90/rabbitmq.svg" width="24" alt="RabbitMQ" />     | [RabbitMQ](https://www.rabbitmq.com)                  | Async Messaging Service using Exchanges and Queues, DLQ/DLX                                                     |
 | <img src="https://oauth.net/images/oauth-2-sm.png" width="24" alt="OAuth2" />                  | [OAuth2](https://oauth.net/2)                        | Specification used when authentication is required. Flows: Client Credentials (APIs), Authorization Code (Frontend/APPs) |
 | <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" width="24" alt="NGINX" />     | [NGINX](https://nginx.org)                            | Reverse proxy. Web server used for frontend APPs |
-| <img src="https://min.io/resources/img/logo.svg" width="32" alt="MinIO" />     | [MinIO](https://min.io)                            | Simple Storage Service (S3) for file storage |
+| <img src="https://static.cdnlogo.com/logos/m/66/minio.svg" height="23" alt="MinIO" />     | [MinIO](https://min.io)                            | Simple Storage Service (S3) for file storage |
 | <img src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" width="24" alt="Redis" />     | [Redis](https://redis.io)                            | In memory database for caching resources |
 | <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="24" alt="Angular" />   | [Angular](https://angular.dev)                        | Frontend framework |
 | <img src="https://img.icons8.com/?size=100&id=6WbypxLnLs37&format=png&color=000000" width="24" alt="Grafana Loki" />   | [Grafana Loki](https://grafana.com/oss/loki)                        | Loki+Fluentbit+Grafana for log aggregation |
